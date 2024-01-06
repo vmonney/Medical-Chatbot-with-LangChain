@@ -1,0 +1,10 @@
+# ctransformers
+# sentence-transformers
+pinecone-client
+# langchain
+google-generativeai
+langchain-google-genai
+flask
+pypdf
+python-dotenv
+-e .
