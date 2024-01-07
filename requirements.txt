@@ -1,10 +1,8 @@
-# ctransformers
-# sentence-transformers
+ctransformers
+sentence-transformers
 pinecone-client
-# langchain
-google-generativeai
-langchain-google-genai
+langchain
 flask
 pypdf
 python-dotenv
--e .
+#-e .

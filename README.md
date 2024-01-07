@@ -12,7 +12,7 @@ git clone https://github.com/vmonney/Medical-Chatbot-with-LangChain.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mchatbot python=3.8 -y
+conda create -n mchatbot python=3.9 -y
 ```
 
 ```bash
